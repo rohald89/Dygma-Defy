@@ -1,0 +1,722 @@
+{
+  "device": {
+    "vendor": "Dygma",
+    "product": "Defy",
+    "keyboardType": "wireless",
+    "displayName": "Dygma Defy wireless",
+    "urls": [
+      {
+        "name": "Homepage",
+        "url": "https://www.dygma.com/defy/"
+      }
+    ]
+  },
+  "language": "en-US",
+  "layerNames": [
+    {
+      "id": 0,
+      "name": "Base"
+    },
+    {
+      "id": 1,
+      "name": "Navigation"
+    },
+    {
+      "id": 2,
+      "name": "Symbols"
+    },
+    {
+      "id": 3,
+      "name": "F-Keys"
+    },
+    {
+      "id": 4,
+      "name": "Numpad"
+    },
+    {
+      "id": 5,
+      "name": "App Launcher"
+    },
+    {
+      "id": 6,
+      "name": "Mouse"
+    },
+    {
+      "id": 7,
+      "name": "L8"
+    },
+    {
+      "id": 8,
+      "name": "L9"
+    },
+    {
+      "id": 9,
+      "name": "RESET_NO_KEY"
+    }
+  ],
+  "keymap": [
+    {
+      "keyCode": 53,
+      "label": "`"
+    },
+    {
+      "keyCode": 53983,
+      "label": "F1",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53984,
+      "label": "F2",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53985,
+      "label": "F3",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53986,
+      "label": "F4",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53987,
+      "label": "F5",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53981,
+      "label": "Clean",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 53988,
+      "label": "F6",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53989,
+      "label": "F7",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53989,
+      "label": "F7",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53991,
+      "label": "F9",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 53992,
+      "label": "F10",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 45,
+      "label": "-"
+    },
+    {
+      "keyCode": 43,
+      "label": "TAB"
+    },
+    {
+      "keyCode": 20,
+      "label": "Q"
+    },
+    {
+      "keyCode": 26,
+      "label": "W"
+    },
+    {
+      "keyCode": 8,
+      "label": "E"
+    },
+    {
+      "keyCode": 21,
+      "label": "R"
+    },
+    {
+      "keyCode": 23,
+      "label": "T"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 28,
+      "label": "Y"
+    },
+    {
+      "keyCode": 24,
+      "label": "U"
+    },
+    {
+      "keyCode": 12,
+      "label": "I"
+    },
+    {
+      "keyCode": 18,
+      "label": "O"
+    },
+    {
+      "keyCode": 19,
+      "label": "P"
+    },
+    {
+      "keyCode": 46,
+      "label": "="
+    },
+    {
+      "keyCode": 41,
+      "label": "ESC"
+    },
+    {
+      "keyCode": 49173,
+      "label": "A",
+      "extraLabel": "CTRL/"
+    },
+    {
+      "keyCode": 50727,
+      "label": "S",
+      "extraLabel": "ALTGR/"
+    },
+    {
+      "keyCode": 49944,
+      "label": "D",
+      "extraLabel": "OS/"
+    },
+    {
+      "keyCode": 49434,
+      "label": "F",
+      "extraLabel": "SHIFT/"
+    },
+    {
+      "keyCode": 10,
+      "label": "G"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 11,
+      "label": "H"
+    },
+    {
+      "keyCode": 49438,
+      "label": "J",
+      "extraLabel": "SHIFT/"
+    },
+    {
+      "keyCode": 49951,
+      "label": "K",
+      "extraLabel": "OS/"
+    },
+    {
+      "keyCode": 50720,
+      "label": "L",
+      "extraLabel": "ALTGR/"
+    },
+    {
+      "keyCode": 49220,
+      "label": ";",
+      "extraLabel": "CTRL/"
+    },
+    {
+      "keyCode": 52,
+      "label": "'"
+    },
+    {
+      "keyCode": 3043,
+      "label": "Hyper"
+    },
+    {
+      "keyCode": 29,
+      "label": "Z"
+    },
+    {
+      "keyCode": 27,
+      "label": "X"
+    },
+    {
+      "keyCode": 6,
+      "label": "C"
+    },
+    {
+      "keyCode": 25,
+      "label": "V"
+    },
+    {
+      "keyCode": 5,
+      "label": "B"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 17,
+      "label": "N"
+    },
+    {
+      "keyCode": 16,
+      "label": "M"
+    },
+    {
+      "keyCode": 54,
+      "label": ","
+    },
+    {
+      "keyCode": 55,
+      "label": "."
+    },
+    {
+      "keyCode": 56,
+      "label": "/"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    },
+    {
+      "keyCode": 53980,
+      "label": "CCP",
+      "extraLabel": "SUPER"
+    },
+    {
+      "keyCode": 49980,
+      "label": "TAB",
+      "extraLabel": "OS/"
+    },
+    {
+      "keyCode": 49467,
+      "label": "BACKSPACE",
+      "extraLabel": "SHIFT/"
+    },
+    {
+      "keyCode": 17452,
+      "label": "3",
+      "extraLabel": "SHIFT"
+    },
+    {
+      "keyCode": 17451,
+      "label": "2",
+      "extraLabel": "SHIFT"
+    },
+    {
+      "keyCode": 49165,
+      "label": "5",
+      "extraLabel": "OSL"
+    },
+    {
+      "keyCode": 49167,
+      "label": "7",
+      "extraLabel": "OSL"
+    },
+    {
+      "keyCode": 224,
+      "label": "CTRL",
+      "extraLabel": "LEFT",
+      "verbose": "Left Control"
+    },
+    {
+      "keyCode": 79,
+      "label": "→"
+    },
+    {
+      "keyCode": 81,
+      "label": "↓"
+    },
+    {
+      "keyCode": 52578,
+      "label": "←",
+      "extraLabel": "L#6/"
+    },
+    {
+      "keyCode": 51514,
+      "label": "ENTER",
+      "extraLabel": "L#2/"
+    },
+    {
+      "keyCode": 52062,
+      "label": "DEL",
+      "extraLabel": "L#4/"
+    },
+    {
+      "keyCode": 44,
+      "label": "SPACE"
+    },
+    {
+      "keyCode": 82,
+      "label": "↑"
+    },
+    {
+      "keyCode": 0,
+      "label": "KEY",
+      "extraLabel": "NO",
+      "verbose": "Disabled"
+    }
+  ],
+  "colormap": [
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    5,
+    12,
+    1,
+    1,
+    1,
+    1,
+    1,
+    8,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    10,
+    12,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    8,
+    7,
+    12,
+    8,
+    10,
+    5,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    5,
+    12,
+    1,
+    1,
+    1,
+    1,
+    1,
+    8,
+    12,
+    9,
+    1,
+    1,
+    1,
+    1,
+    10,
+    12,
+    9,
+    9,
+    9,
+    1,
+    1,
+    0,
+    12,
+    9,
+    7,
+    8,
+    4,
+    12,
+    12,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    15
+  ],
+  "palette": [
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "rgb": "rgb(255, 255, 255)"
+    },
+    {
+      "r": 255,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(255, 0, 0)"
+    },
+    {
+      "r": 255,
+      "g": 86,
+      "b": 0,
+      "rgb": "rgb(255, 86, 0)"
+    },
+    {
+      "r": 255,
+      "g": 128,
+      "b": 0,
+      "rgb": "rgb(255, 128, 0)"
+    },
+    {
+      "r": 255,
+      "g": 255,
+      "b": 0,
+      "rgb": "rgb(255, 255, 0)"
+    },
+    {
+      "r": 185,
+      "g": 255,
+      "b": 0,
+      "rgb": "rgb(185, 255, 0)"
+    },
+    {
+      "r": 0,
+      "g": 255,
+      "b": 0,
+      "rgb": "rgb(0, 255, 0)"
+    },
+    {
+      "r": 0,
+      "g": 255,
+      "b": 175,
+      "rgb": "rgb(0, 255, 175)"
+    },
+    {
+      "r": 84,
+      "g": 255,
+      "b": 255,
+      "rgb": "rgb(84, 255, 255)"
+    },
+    {
+      "r": 0,
+      "g": 191,
+      "b": 255,
+      "rgb": "rgb(0, 191, 255)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 255,
+      "rgb": "rgb(0, 0, 255)"
+    },
+    {
+      "r": 139,
+      "g": 0,
+      "b": 255,
+      "rgb": "rgb(139, 0, 255)"
+    },
+    {
+      "r": 255,
+      "g": 0,
+      "b": 255,
+      "rgb": "rgb(255, 0, 255)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    },
+    {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "rgb": "rgb(0, 0, 0)"
+    }
+  ]
+}
